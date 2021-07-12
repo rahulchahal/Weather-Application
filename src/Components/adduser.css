@@ -1,0 +1,66 @@
+.adduser
+{
+    background-color:dodgerblue;
+    height:600px;
+    font-size: x-large;
+    text-align: center;
+     
+}
+input{
+    padding: 7px;
+    margin : 15px;
+    font-size: x-large;
+}
+span{
+    padding: 6px;
+    margin: 50px;
+    font-size: x-large;
+}
+.userlist
+{
+    padding: 7;
+    width: 800px;
+   text-align: center;
+   margin-top: 40px;
+    justify-content: space-between;
+    
+    
+}
+.user-heading
+{
+   
+    width: 800px;
+    text-align: center;
+    margin-left: 300px;
+    margin-top: 50px;
+    border: 5px dotted darkorange;
+   justify-content: space-between;
+   border-radius: 25px;
+
+   background-color: cyan;
+}
+#add-user
+{
+    margin-left: auto;
+    
+}
+h1{
+    text-align: center;
+    
+}
+.Addbtn{
+    background-color: chartreuse;
+    border: 1px solid black;
+    font-size: x-large;
+    padding: 8px;
+    width: 100px;
+    border-radius: 14px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;    
+}
+.Addbtn:hover{
+    transform: rotate(360deg);
+    background-color: white;
+
+    cursor: pointer;
+    transition: all 0.3s ease-in-out 0s;
+}
